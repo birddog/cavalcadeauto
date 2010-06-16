@@ -5,9 +5,9 @@ html{overflow-y:scroll;}/* adds scrollbar and prevents jumping of content */
 body{font-family:Arial,"Helvetica Neue",Helvetica,sans-serif;font-size:11px;line-height:1.25;background-image:url('/wp-content/uploads/2010/03/bgWDR1.jpg');}
 body.page{padding:0;}
 a,
-a:active{color:#e21c22;outline:0;text-decoration:none;}
+a:active{color:#0e4a78;outline:0;text-decoration:none;}
 a:hover,
-a:focus{color:#e21c22;outline:0;}
+a:focus{color:#0e4a78;outline:0;}
 p,
 .text,
 td,
@@ -15,7 +15,7 @@ td,
 p{margin:0 0 0.5em;}
 h1,h2,h3,h4,h5{color:#999;font-weight:bold;margin-bottom:0.75em;}
 h1{font-size:18px;}
-h2{font-size:16px;color:#e21c22;}
+h2{font-size:16px;color:#0e4a78;}
 h3{font-size:14px;}
 h4{font-size:13px;color:#222;}
 h5{font-size:12px;}
@@ -40,7 +40,7 @@ hr{border:0;color:#999;background-color:#999;height:1px;width:100%;text-align:le
 #header #phone-numbers{color:#999;text-align:right;padding-top:5px;}
 #header #phone-numbers table{width:100%;}
 #header #phone-numbers table td{text-align:right;}
-#header #phone-numbers strong{font:bold 11pt;color:#e21c22;}
+#header #phone-numbers strong{font:bold 11pt;color:#0e4a78;}
 #site-content{margin:0;}
 body.page-parent #home-content{position:relative;top:-15px;z-index:30;}
 #home-1.widget-zones{margin:0;}
@@ -61,7 +61,7 @@ body.page-parent #home-content{position:relative;top:-15px;z-index:30;}
 #menubar .nav li{}
 #menubar .nav li a{display:block;background-image:url('/wp-content/uploads/menubar-nav-bg.png');padding:6px 0 0 7px;height:28px;font-size:12px;}
 #menubar .nav li a:hover,
-#menubar .nav li a .current-page{color:#e21c22;}
+#menubar .nav li a .current-page{color:#0e4a78;}
 #menubar .nav li.page-item-149 a{background-position:left 0;width:65px;padding-left:11px;}
 #menubar .nav li.page-item-151 a{background-position:-76px 0;width:99px;}
 #menubar .nav li.page-item-153 a{background-position:-182px 0;width:144px;}
@@ -92,7 +92,7 @@ div.quicklinksItem ul a:link,
 div.quicklinksItem ul a:visited{color:#797979;font-weight:normal;text-decoration:none;}
 div.quicklinksItem ul a:hover,
 div.quicklinksItem ul a:focus,
-div.quicklinksItem ul a:active{color:#e21c22;font-weight:normal;text-decoration:none;}
+div.quicklinksItem ul a:active{color:#0e4a78;font-weight:normal;text-decoration:none;}
 div.quicklinksItem ul.first{width:190px;}
 div.quicklinksItem ul.last{width:140px;}
 div.quicklinksItem div.img{position:absolute;}
@@ -141,7 +141,7 @@ body.quicklinksbody td#footer div#footerdisclaimersWrap{-moz-background-clip:bor
 div.quicklinksitem ul a:link,
 div.quicklinksItem ul a:visited{color:#666666;font-weight:normal;text-decoration:none;}
 div.quicklinksitem ul a:hover,
-div.quicklinksItem ul a:visited:hover{color:#e21c22;font-weight:normal;text-decoration:none;}
+div.quicklinksItem ul a:visited:hover{color:#0e4a78;font-weight:normal;text-decoration:none;}
 td#footer div.footeritem a:link,
 td#footer div.footeritem a:visited,
 td#footer div.footeritem a:hover,
@@ -149,7 +149,7 @@ td#footer div.footeritem a:focus,
 td#footer div.footeritem a:active{font-weight:normal;}
 td#footer a:link,
 td#footer a:visited{color:#666666;font-weight:bold;text-decoration:none;}
-td#footer a:hover{color:#e21c22;font-weight:bold;text-decoration:none;}
+td#footer a:hover{color:#0e4a78;font-weight:bold;text-decoration:none;}
 
 /**************************************
 * Slideshow Widget
@@ -168,14 +168,14 @@ td#footer a:hover{color:#e21c22;font-weight:bold;text-decoration:none;}
 .slideshowwidget .pager .pages{position:absolute;right:10px;bottom:-348px;}
 .slideshowwidget .pager .pages a{display:block!important;float:left!important;height:15px!important;width:15px!important;font-size:9px!important;text-align:left!important;line-height:15px!important;color:#222!important;text-decoration:none!important;margin:0 1px!important;border:none!important;opacity:0.8!important;background:url('/wp-content/uploads/2010/03/slideshowwidget-pager-circle.png') no-repeat!important;}
 .slideshowwidget .pager .pages a.activeSlide,
-.slideshowwidget .pager .pages a:hover{opacity:1.0!important;color:#e21c22!important;}/* unknown */
+.slideshowwidget .pager .pages a:hover{opacity:1.0!important;color:#0e4a78!important;}/* unknown */
 #vehicle-picker{height:100px;border:solid 1px #aaa;-webkit-border-radius:7px;}
 
 /**************************************
 * Showroom Widget
 **************************************/
 .dt-showcase{margin:5px auto;}
-.dt-showcase .vehicle{background:#eee;padding:10px;color:#e21c22;}
+.dt-showcase .vehicle{background:#eee;padding:10px;color:#0e4a78;}
 .dt-showcase p{margin:5px 10px;}
 .dt-showcase .models{padding:10px;}
 .dt-showcase .model{float:left;width:180px;height:100px;text-align:center;}
@@ -198,7 +198,7 @@ td#footer a:hover{color:#e21c22;font-weight:bold;text-decoration:none;}
 /*.dt-showcase .vehicle .trims{position:absolute;left:30px;border:1px solid #aaa;padding:10px;background:#eee;z-index:2;text-align:left;-webkit-border-radius:5px;-moz-border-radius:5px;opacity:.95;-moz-opacity:0.95;}
 .dt-showcase .vehicle .trims a{text-decoration:none;background-image:url("/wp-content/uploads/red_arrow_scroller.png");background-position:left 3px;background-repeat:no-repeat;padding-left:8px;color:#333;}*/
 .dt-showcase .detail{padding:0!important;}
-.dt-showcase .detail h1{color:#e21c22!important;font-size:14px;font-weight:bold;padding:5px;margin-bottom:0;}
+.dt-showcase .detail h1{color:#0e4a78!important;font-size:14px;font-weight:bold;padding:5px;margin-bottom:0;}
 .dt-showcase .detail .vehicle-info{border:none!important;background:url("http://assets2.dealertrend.com/images/themes/vehicle_inventory/bird_dog/details-info.png") top center no-repeat!important;float:left;width:360px!important;height:300px!important;font:bold 10pt arial;color:#999;padding:25px 2px 10px!important;margin:0!important;}
 .dt-showcase .detail .vehicle-info .msrp{margin-top:10%;}
 .dt-showcase .detail .vehicle-info label{width:180px!important;}
@@ -227,8 +227,8 @@ td#footer a:hover{color:#e21c22;font-weight:bold;text-decoration:none;}
 #quick-find td a{text-decoration:none;color:#333;}
 #slideout{display:none;background:#DCDBE0;min-height:200px;margin-bottom:5px;}
 .frm-btn-new-test-drive,
-.frm-btn-used-test-drive{color:#e21c22;cursor:pointer;padding:5px 5px 2px;float:left;}
-hr.blue{border-bottom:1px solid #e21c22;}
+.frm-btn-used-test-drive{color:#0e4a78;cursor:pointer;padding:5px 5px 2px;float:left;}
+hr.blue{border-bottom:1px solid #0e4a78;}
 .frm-btn-new-test-drive.active,
 .frm-btn-used-test-drive.active{color:#999;}
 .frm-btn-new-test-drive:hover,
@@ -247,7 +247,7 @@ hr.blue{border-bottom:1px solid #e21c22;}
 .showcase-slider .showcaseslider-tabs li{border:none;margin:0 5px!important;text-align:center;list-style:none;display:inline-block;margin:0;padding:0;}
 .showcase-slider .showcaseslider-tabs li a{display:block;background-image:url('/wp-content/uploads/2010/03/tab-inverted.png');background-repeat:no-repeat;height:19px;width:75px;color:#fff;border:none;font-size:12px;}
 .showcase-slider .showcaseslider-tabs li .current{background:url('/wp-content/uploads/2010/03/tab-inverted-grey.png')!important;color:#fff!important;}
-.showcase-slider .header{text-transform:uppercase;background:#f1f1f1;color:#e21c22;font-size:14px;font-weight:bold;height:22px;padding:2px 15px;position:relative;}
+.showcase-slider .header{text-transform:uppercase;background:#f1f1f1;color:#0e4a78;font-size:14px;font-weight:bold;height:22px;padding:2px 15px;position:relative;}
 .showcase-slider .header ul.showcaseslider-tabs a:hover,
 .showcase-slider .header ul.showcaseslider-tabs li a.current:hover{background:url('/wp-content/uploads/2010/03/tab-inverted-grey.png')!important;color:#fff!important;text-decoration:underline;}
 .showcase-slider .scrollable{position:relative;overflow:hidden;height:90px;padding:0;}
@@ -263,7 +263,7 @@ hr.blue{border-bottom:1px solid #e21c22;}
 #showcase-flyout .showcase-pane .vehicle .trims br{display:none;}
 .showcase-slider .scrollable .item .trims a,
 #showcase-flyout .showcase-pane .vehicle .trims a{display:block;float:none!important;background-image:url("/wp-content/uploads/red_arrow_scroller.png");background-position:left 3px;background-repeat:no-repeat;padding:0 5px 1px 10px!important;margin:0!important;text-align:left!important;font-size:10px!important;width:auto!important;color:#333!important;}
-.showcase-slider .scrollable .item .trims a:hover{color:#e21c22!important;-moz-border-radius:0!important;-webkit-border-radius:0!important;text-decoration:underline;background-color:transparent;background-image:url("/wp-content/uploads/red_arrow_scroller.png");background-position:left 3px;background-repeat:no-repeat;}*/
+.showcase-slider .scrollable .item .trims a:hover{color:#0e4a78!important;-moz-border-radius:0!important;-webkit-border-radius:0!important;text-decoration:underline;background-color:transparent;background-image:url("/wp-content/uploads/red_arrow_scroller.png");background-position:left 3px;background-repeat:no-repeat;}*/
 .showcase-slider .scrollable a.prev,
 .showcase-slider .scrollable a.next{position:relative;z-index:50;width:38px;height:90px!important;cursor:pointer;margin-top:0!Important;}
 .showcase-slider .scrollable .prev{float:left;background:url('/wp-content/uploads/2010/02/small-gray-arrow-1.jpg') no-repeat center center;-webkit-border-bottom-left-radius:10px!important;-moz-border-radius-bottomleft:10px!important;}
@@ -358,7 +358,7 @@ hr.blue{border-bottom:1px solid #e21c22;}
 .bumpupmenuwidget .menu{display:none;padding-top:8px;}
 .bumpupmenuwidget ul li{margin:0 0 2px 10px;list-style-type:none;}
 .bumpupmenuwidget ul li a{text-decoration:none;color:#333;padding:0.2em 0.2em 0.2em 10px;}
-.bumpupmenuwidget ul li a:hover{color:#e21c22;}
+.bumpupmenuwidget ul li a:hover{color:#0e4a78;}
 
 /**************************************
 * Accordion Menus
@@ -373,7 +373,7 @@ hr.blue{border-bottom:1px solid #e21c22;}
 .accordionmenuwidget-pages li > ul li{margin-bottom:1px;}
 .accordionmenuwidget-pages li > ul li > a{display:block;padding:2px;color:#626262;font-weight:bold;font-size:10px;}
 .accordionmenuwidget-pages li > ul li > a:hover,
-.accordionmenuwidget-pages li > ul li.current_page_item > a{color:#e21c22;}
+.accordionmenuwidget-pages li > ul li.current_page_item > a{color:#0e4a78;}
 body.page-id-232 .accordionmenuwidget-pages > li > ul.activeParent{display:block;background-color:rgb(244,244,244);background-image:url("/wp-content/uploads/menu-arrow.png");background-position:left -280px;background-repeat:no-repeat;}
 
 /**************************************
@@ -581,7 +581,7 @@ ul#steps li {
 .mmf-list-item-label{color:#999;}
 #quick-contact-form{background-color:#F4F4F4;border:1px solid #DDDDDD;padding:5px;width:650px;margin:10px auto 0;}
 #quick-contact-form h2,
-#quick-contact-form h2{margin-left:25px;padding:5px 0;color:#e21c22;font-size:11px;background-color:#f4f4f4;}
+#quick-contact-form h2{margin-left:25px;padding:5px 0;color:#0e4a78;font-size:11px;background-color:#f4f4f4;}
 #quick-contact-form .form-item label{float:left;width:40px;margin-right:5px;}
 #quick-contact-form .form-item input{float:left;}
 #contact-form .form-block{margin-bottom:5px;}
@@ -658,7 +658,7 @@ body.page-id-206 #site-content > .grid_12 > #post-206{padding:0 0 0 10px;}
 #div_contact select{font-size:11px;color:#999;}
 #div_contact select option{padding:2px;color:#999;border:none;}
 .white td{color:#ffffff;}
-.contactTitle td:first-child{color:#e21c22;}
+.contactTitle td:first-child{color:#0e4a78;}
 td.emailRight{text-align:right !important;padding-right:5px;}
 .contactTitle{height:30px;}
 
@@ -699,7 +699,7 @@ body.page-id-43 .dt-showcase .detail .tabs{left:-1px;}
 .staff .person .photo{float:left;margin-right:10px;padding:0;}
 .staff .person .name{font-size:14px;}
 .staff .person .title{font-size:11px;}
-.staff .person .phone{font-size:13px;color:#e21c22;}
+.staff .person .phone{font-size:13px;color:#0e4a78;}
 .staff .person .email{display:block;padding:15px 0;}
 .staff .person .toggle{display:block;}
 .staff .person .bio-text{
@@ -725,9 +725,9 @@ body.page-id-43 .dt-showcase .detail .tabs{left:-1px;}
 .picBio{width:100px;float:left;margin-right:10px;}
 .nameBio{font-size:14px;color:#999;margin-bottom:0px;}
 .titleBio{font-size:11px;color:#999;}
-.phoneBio{font-size:13px;color:#e21c22;}
+.phoneBio{font-size:13px;color:#0e4a78;}
 .emailBio{padding-bottom:15px;}
-.textBio{display:none;font-size:9px;color:#e21c22;background-image:url(/wp-content/uploads/2010/03/bioBg.jpg);background-repeat:no-repeat;margin-top:18px;padding-top:4px;}
+.textBio{display:none;font-size:9px;color:#0e4a78;background-image:url(/wp-content/uploads/2010/03/bioBg.jpg);background-repeat:no-repeat;margin-top:18px;padding-top:4px;}
 
 /*************************************/
 /* Parts - Tire Center
@@ -826,10 +826,10 @@ ul.apparelWrap li .pleft{padding:10px 30px 20px 10px;}
 .tabwrap{width:800px;display:block;height:57px;}
 div.p1,
 div.p2,
-div.p3{float:left;display:block;width:250px;height:55px;padding:3px;font-size:16px;cursor:pointer;color:#222;background-color:#fff;border-bottom:1px solid #e21c22;}
+div.p3{float:left;display:block;width:250px;height:55px;padding:3px;font-size:16px;cursor:pointer;color:#222;background-color:#fff;border-bottom:1px solid #0e4a78;}
 div.p1.active,
 div.p2.active,
-div.p3.active{color:#fff;background-color:#e21c22;border:1px solid #e21c22;-moz-border-radius-topleft:4px;-webkit-border-top-left-radius:4px;-moz-border-radius-topright :4px;-webkit-border-top-right-radius:4px;}
+div.p3.active{color:#fff;background-color:#0e4a78;border:1px solid #0e4a78;-moz-border-radius-topleft:4px;-webkit-border-top-left-radius:4px;-moz-border-radius-topright :4px;-webkit-border-top-right-radius:4px;}
 div.p1 span,
 div.p2 span,
 div.p3 span{font-size:10px;}
@@ -837,13 +837,13 @@ div.p3 span{font-size:10px;}
 .recommendedService table.enabled{z-index:5;display:table;}
 .recommendedService table td{padding:2px;vertical-align:top;}
 .recommendedService table td ul{margin:5px;list-style-type:none;}
-.recommendedService table td.section div{border-bottom:1px solid #e21c22;font-style:italic;color:#000;font-size:14px;letter-spacing:1px;margin-top:10px;}
-.recommendedService table td.subsection{background-color:#eee;color:#e21c22;font-weight:bold;font-size:16px;}
+.recommendedService table td.section div{border-bottom:1px solid #0e4a78;font-style:italic;color:#000;font-size:14px;letter-spacing:1px;margin-top:10px;}
+.recommendedService table td.subsection{background-color:#eee;color:#0e4a78;font-weight:bold;font-size:16px;}
 .recommendedService table td.price{font-size:16px;font-weight:bold;text-align:right;}
 .recommendedService table td.price sup,
 .recommendedService table td.price div{font-size:8px;}
 .recommendedService table td.price p{font-size:16px;font-weight:bold;text-align:right;}
-.recommendedService .footnotes{display:none;position:absolute;right:360px;background-color:#fff;border:1px solid #e21c22;padding:8px;width:300px;z-index:100;}
+.recommendedService .footnotes{display:none;position:absolute;right:360px;background-color:#fff;border:1px solid #0e4a78;padding:8px;width:300px;z-index:100;}
 .recommendedService .footnotes p{font-size:9px;color:#222;line-height:1.55;}
 
 /*************************************/
@@ -863,12 +863,12 @@ div.p3 span{font-size:10px;}
 .bird_dog .listings .vehicles a .vehicle-desc,
 .bird_dog .listings .vehicles a .price-details .price,
 .bird_dog .listings .vehicles a .price-details .was,
-.bird_dog .listings .vehicles a .price-details .now{color:#e21c22!important;font-size:12px!important;}
+.bird_dog .listings .vehicles a .price-details .now{color:#0e4a78!important;font-size:12px!important;}
 .bird_dog .detail .vehicle-desc{font-size:14px;}
 .bird_dog .listings .search .grad.toggle{height:25px;line-height:22px;}
 .bird_dog .listings .search .grad.toggle .toggle-icon{width:40px;height:25px;background:url(/wp-content/uploads/quick-find-arrow.jpg) scroll no-repeat 0 0 transparent;float:left;}
-.bird_dog .listings .search .advanced{background:#e21c22!important;}
-.bird_dog .listings .quick_links > a:hover{background:#e21c22!important;}
+.bird_dog .listings .search .advanced{background:#0e4a78!important;}
+.bird_dog .listings .quick_links > a:hover{background:#0e4a78!important;}
 .bird_dog .detail .tab-box .tabs a.current,
 .bird_dog .detail .tab-box .tabs a.current:hover,
 .bird_dog .detail .tab-box .tabs li.current a{background-image:none!important;}
