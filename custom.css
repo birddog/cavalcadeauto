@@ -32,8 +32,9 @@ blockquote {
 	width: 325px;
 	font: italic normal 16px/18px Arial, Helvetica, sans-serif;
 	text-align: center;
+	background:url(/wp-content/uploads/openquote.png) no-repeat 0 0 #fff;
 }
-blockquote cite {display:block;}
+blockquote cite {display:block;text-align:right;}
 /**************************************
 * General Layout Regions
 **************************************/
