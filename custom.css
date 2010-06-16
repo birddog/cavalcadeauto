@@ -30,27 +30,10 @@ blockquote {
 	border-top: 2px solid #694E1C;
 	border-bottom: 2px solid #694E1C;
 	padding: 10px;
-	float: right;
+	float: left;
 	width: 200px;
 	font: italic normal 16px/36px Arial, Helvetica, sans-serif;
 	text-align: center;
-}
-blockquote:before, blockquote:after {
-	color: #0e4a78;
-	display: block;
-	font-size: 700%;
-	width: 50px;
-}
-blockquote:before {
-	content: '&#8221;';
-	height: 0;
-	margin-left: -0.55em;
-}
-blockquote:after {
-	content: '&#8220;';
-	height: 50px;
-	margin-top: -70px;
-	margin-left: 360px;
 }
 /**************************************
 * General Layout Regions
