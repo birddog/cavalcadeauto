@@ -97,8 +97,8 @@ jQuery(function($) {
   });
 
 	if ($('#heatmap_toolbar').length) { 
-		$('body').css('margin-top','12px!important'); 
-		/* $('#heatmap_toolbar').css('top','-12px'); */
+		$('.logged-in').css({marginTop: '12px'}); 
+
 	}
 
   /* Inventory Search */
