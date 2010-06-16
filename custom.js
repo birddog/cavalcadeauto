@@ -96,7 +96,10 @@ jQuery(function($) {
       $(".bumpupmenuwidget").makeBumpUpMenu();
   });
 
-	if ($('#heatmap_toolbar').length) { $('body').css('margin','12px 0 0 0'); /* $('#heatmap_toolbar').css('top','-12px'); */}
+	if ($('#heatmap_toolbar').length) { 
+		$('body').css('margin-top','12px!important'); 
+		/* $('#heatmap_toolbar').css('top','-12px'); */
+	}
 
   /* Inventory Search */
   $("#quick-find #inventory-search").focus(function(){
