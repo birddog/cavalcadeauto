@@ -79,7 +79,7 @@ body.page-parent #home-content{position:relative;top:-15px;z-index:30;}
 #menubar .nav li.last{
 	background-image:url('/wp-content/uploads/menubar-nav-bg.png');
 	background-position:right top;
-	width:248px;
+	width:247px;
 	height:34px;
 }/* menubar overrides */
 #menubar .nav ul li a{font:inherit;}
