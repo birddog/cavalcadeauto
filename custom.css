@@ -25,6 +25,28 @@ td li{text-align:left;}
 hr{border:0;color:#999;background-color:#999;height:1px;width:100%;text-align:left;}
 .top{vertical-align:text-top;}
 
+blockquote {
+	display: block;
+	padding: 0 60px;
+	width: 350px;
+}
+blockquote:before, blockquote:after {
+	color: #0e4a78;
+	display: block;
+	font-size: 700%;
+	width: 50px;
+}
+blockquote:before {
+	content: open-quote;
+	height: 0;
+	margin-left: -0.55em;
+}
+blockquote:after {
+	content: close-quote;
+	height: 50px;
+	margin-top: -70px;
+	margin-left: 360px;
+}
 /**************************************
 * General Layout Regions
 **************************************/
