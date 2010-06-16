@@ -27,12 +27,10 @@ hr{border:0;color:#999;background-color:#999;height:1px;width:100%;text-align:le
 
 blockquote {
 	margin: 10px 0 10px 20px;
-	border-top: 2px solid #694E1C;
-	border-bottom: 2px solid #694E1C;
 	padding: 10px;
 	float: left;
 	width: 200px;
-	font: italic normal 16px/36px Arial, Helvetica, sans-serif;
+	font: italic normal 16px/18px Arial, Helvetica, sans-serif;
 	text-align: center;
 }
 /**************************************
