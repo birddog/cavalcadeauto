@@ -26,13 +26,13 @@ hr{border:0;color:#999;background-color:#999;height:1px;width:100%;text-align:le
 .top{vertical-align:text-top;}
 
 blockquote {
-	margin: 10px 0 10px 20px;
-	padding: 10px;
+	margin:0 10px 0 0!important;
+	padding: 10px 10px 10px 24px;
 	float: left;
 	width: 325px;
 	font: italic normal 16px/18px Arial, Helvetica, sans-serif;
 	text-align: center;
-	background:url(/wp-content/uploads/openquote.png) no-repeat 0 0 #fff;
+	background:url(/wp-content/uploads/openquote.png) no-repeat 0 10px #fff;
 }
 blockquote cite {display:block;text-align:right;}
 /**************************************
