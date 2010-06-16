@@ -37,12 +37,12 @@ blockquote:before, blockquote:after {
 	width: 50px;
 }
 blockquote:before {
-	content: '201C';
+	content: '&#8221;';
 	height: 0;
 	margin-left: -0.55em;
 }
 blockquote:after {
-	content: close-quote;
+	content: '&#8220;';
 	height: 50px;
 	margin-top: -70px;
 	margin-left: 360px;
