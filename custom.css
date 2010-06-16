@@ -4,8 +4,7 @@
 html{overflow-y:scroll;}/* adds scrollbar and prevents jumping of content */
 body{font-family:Arial,"Helvetica Neue",Helvetica,sans-serif;font-size:11px;line-height:1.25;background-image:url('/wp-content/uploads/2010/03/bgWDR1.jpg');}
 body.page{padding:0;}
-a,
-a:active{color:#0e4a78;outline:0;text-decoration:none;}
+a, a:active{color:#0e4a78;outline:0;text-decoration:none;}
 a:hover,
 a:focus{color:#09C;outline:0;}
 p,
@@ -67,8 +66,6 @@ body.page-parent #home-content{position:relative;top:-15px;z-index:30;}
 	font-size:12px; 
 	text-transform:uppercase;
 }
-#menubar .nav li a:hover,
-#menubar .nav li a .current-page{color:#0e4a78;}
 #menubar .nav li.page-item-149 a{background-position:left 0;width:65px;padding-left:11px;}
 #menubar .nav li.page-item-3788 a{background-position:-76px 0;width:99px;}
 #menubar .nav li.page-item-3791 a{background-position:-76px 0;width:99px;}
@@ -81,7 +78,15 @@ body.page-parent #home-content{position:relative;top:-15px;z-index:30;}
 	background-position:right top;
 	width:247px;
 	height:34px;
-}/* menubar overrides */
+}
+#menubar .nav div.subtext {
+	font-size:8px;
+	margin-left: 0;
+	overflow:hidden;
+	position:relative;
+	width:100px;
+}
+/* menubar overrides */
 #menubar .nav ul li a{font:inherit;}
 .nav li a,
 .nav li a:visited .nav li li a,
