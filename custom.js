@@ -97,7 +97,7 @@ jQuery(function($) {
   });
 
 	if ($('#heatmap_toolbar').length) { 
-		$('.logged-in').css({marginTop: '12px'}); 
+		$('body').addClass('heatmap'); 
 	}
 
   /* Inventory Search */
