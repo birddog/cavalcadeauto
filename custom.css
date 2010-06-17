@@ -918,7 +918,11 @@ div.p3 span{font-size:10px;}
 /*************************************/
 /* Car Resoure page
 /*************************************/
-.teaser {float:left; width:200px; }
+.teaser {
+	float:left; 
+	width: 325px;
+	margin: 0 10px 10px 0;
+}
 
 /*************************************/
 /* Image Gallery
