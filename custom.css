@@ -418,6 +418,7 @@ input[type="checkbox"]{font-size:11px;background-color:#fff;border:1px solid #ca
 .staffEmail {width:345px;}
 
 /* default style */
+td .form {padding: 0 10px 10px;}
 .form {
 	position:relative;
 	background-color:#f4f4f4;
