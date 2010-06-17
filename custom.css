@@ -919,12 +919,16 @@ div.p3 span{font-size:10px;}
 /* Car Resoure page
 /*************************************/
 .teaser {
+	position:relative;
 	float:left; 
 	width: 325px;
-	height:150px;
+	height:160px;
 	margin: 0 20px 10px 0;
 }
 .teaser .readmore {
+	position:absolute;
+	bottom:0;
+	right:0;
 	padding:5px;
 	background-color:#0e4a78;
 	color:#fff;
