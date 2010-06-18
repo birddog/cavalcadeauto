@@ -135,7 +135,7 @@ div#quicknews{position:relative;width:250px;padding-right:0;}
 div#quicknews div.quicklinksTitle{}
 div#quicknews div.quicklinksSubtitle{margin:0 0 10px 0;}
 div#quicknews ul li{background-image:url('/wp-content/uploads/quick-find-bullet.png');}
-td#footer{color:#666;text-align:center;padding:20px 0 0 0;background:#1d1d1d;width:100%;}
+td#footer{color:#666;text-align:center;padding:0;background:#1d1d1d;width:100%;}
 td#footer div#footerWrap{text-align:left;width:970px;overflow:hidden;margin:0 auto;padding:0 5px 20px 5px;}
 body.quicklinksbody td#footer div#footerWrap{background:none;}
 td#footer p{margin:0 0 10px 0;color:#666;}
@@ -155,7 +155,7 @@ td#footer div.footeritem a:visited,
 td#footer div.footeritem a:hover,
 td#footer div.footeritem a:focus,
 td#footer div.footeritem a:active{font-weight:normal;}
-td#footer div#footercontact{padding-right:0;}
+td#footer div#footercontact{padding-right:0;float:right;}
 td#footer div#footercontact ul li{color:#666;padding:0;background:none;}
 td#footer div#footercontact ul li.special{width:150px;border-top:1px #333 solid;}
 td#footer div#footerdisclaimersWrap{clear:both;overflow:hidden;padding:20px 0;background:#222;border-top:1px #444 solid;}
