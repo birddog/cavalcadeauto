@@ -175,6 +175,7 @@ td#footer div.footeritem a:active{font-weight:normal;}
 td#footer a:link,
 td#footer a:visited{color:#666666;font-weight:bold;text-decoration:none;}
 td#footer a:hover{color:#0e4a78;font-weight:bold;text-decoration:none;}
+.quickContact {height:138px;}
 .quickContact ul li{
 	float:right;
 	list-style-type:none!important;
@@ -184,6 +185,7 @@ td#footer a:hover{color:#0e4a78;font-weight:bold;text-decoration:none;}
 	padding:0;
 	color:#666;
 }
+.quickContact ul li.special{width:150px;border-top:1px #333 solid;}
 /**************************************
 * Slideshow Widget
 **************************************/
