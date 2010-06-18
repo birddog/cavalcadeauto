@@ -176,9 +176,10 @@ td#footer a:link,
 td#footer a:visited{color:#666666;font-weight:bold;text-decoration:none;}
 td#footer a:hover{color:#0e4a78;font-weight:bold;text-decoration:none;}
 .quickContact ul li{
-	list-style-type:none;
+	float:right;
+	list-style-type:none!important;
 	font-size:11px;
-	line-height:16px;
+	line-height:12px;
 	margin:0;
 	padding:0;
 	color:#666;
