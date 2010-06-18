@@ -51,6 +51,7 @@ blockquote cite {display:block;text-align:right;}
 #header #phone-numbers table td{text-align:right;}
 #header #phone-numbers strong{font:bold 11pt;color:#0e4a78;}
 #site-content{margin:0;}
+#site-content #post-3913 {background-image:url(/wp-content/uploads/teamBg.jpg);}
 body.page-parent #home-content{position:relative;top:-15px;z-index:30;}
 #home-1.widget-zones{margin:0;}
 #contact-us-page{padding:50px;}
