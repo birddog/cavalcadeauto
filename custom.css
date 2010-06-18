@@ -715,7 +715,7 @@ body.page-id-43 .dt-showcase .detail .tabs{left:-1px;}
 /**************************************
 * Bios'
 **************************************/
-#site-content #post-3913 {background-image:url(/wp-content/uploads/teamBg.jpg);height:442px;}
+#site-content #post-3913 .entry {background-image:url(/wp-content/uploads/teamBg.jpg);height:442px;}
 #site-content #post-3913 .entry h4 {
 	width:50%;
 	padding:5px;
