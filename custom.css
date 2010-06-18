@@ -482,7 +482,11 @@ td .form {padding: 0 10px 10px;}
 
 .form select {width:143px;}
 .form  input, select {font-size:11px;vertical-align:middle;}
-
+.contactusSmall textarea {width:300px;}
+.preownedtestdrive textarea, .newtestdrive textarea,
+.contactus textarea, . {width:600px;}
+.partsRequest textarea, .contactFinance textarea, .contactFleet textarea { width:705px;}
+.collisionCenter textarea {360px;}
 
 /* form validation */
 span.wpcf7-not-valid-tip {
@@ -573,7 +577,7 @@ ul#steps li {
 	float:right!important;
 }
 #tradeEstimate .next, #tradeEstimate .prev {
-	background-color:rgba(121, 0, 0, 0.7);
+	background-color:#0E4A78;
 	color:#FFFFFF;
 	display:block;
 	float:left;
@@ -585,7 +589,7 @@ ul#steps li {
 	-webkit-border-radius: 5px;		
 }
 .btnsubmit {
-	background-color:rgba(121, 0, 0, 0.7);
+	background-color:#0E4A78;
 	color:#FFFFFF;
 	display:block;
 	font-size:12px;
@@ -938,7 +942,6 @@ div.p3 span{font-size:10px;}
 	margin: 10px 20px 10px 0;
 	padding:4px;
 	border:1px solid #eee;
-
 }
 
 .teaser .readmore {
