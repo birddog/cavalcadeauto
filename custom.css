@@ -175,7 +175,7 @@ td#footer div.footeritem a:active{font-weight:normal;}
 td#footer a:link,
 td#footer a:visited{color:#666666;font-weight:bold;text-decoration:none;}
 td#footer a:hover{color:#0e4a78;font-weight:bold;text-decoration:none;}
-.quickContact {height:138px;	float:right!important;}
+.quickContact {width:280px;height:138px;	float:right!important;}
 .quickContact ul li{
 	list-style-type:none!important;
 	background-image:none!important;
