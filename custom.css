@@ -860,6 +860,7 @@ div.p3 span{font-size:10px;}
 /*************************************/
 /* Inventory tweaks
 /*************************************/
+.bird_dog .listings a:hover {color:#999!important;}
 .bird_dog .listings .search .quick-combo-search{display:inline-block;padding:10px 0 10px 5px;text-align:left;}
 .bird_dog .listings .search .quick-combo-search select{font-size:11px;}
 .bird_dog .listings .search .quick-combo-search label{vertical-align:middle;display:inline-block;text-transform:uppercase;float:left;padding:3px 3px 0 0;}
