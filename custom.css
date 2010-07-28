@@ -107,7 +107,7 @@ body.page-parent #home-content{position:relative;top:-15px;z-index:30;}
 /**************************************
 * Footer
 **************************************/
-#breakout-footer {
+#footer-bottom {
 	-moz-border-radius-bottomleft:8px;
 	-webkit-border-bottom-left-radius:8px;
 	-moz-border-radius-bottomright:8px;
