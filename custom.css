@@ -364,8 +364,8 @@ hr.blue{border-bottom:1px solid #0e4a78;}
 #news-ticker .scrollable a.next{position:relative;z-index:50;width:20px;height:130px;padding:1px;cursor:pointer;}
 #news-ticker .scrollable .sliderwidget-prev,
 #news-ticker .scrollable .sliderwidget-next{position:absolute;width:20px;height:40px;top:38px;z-index:100;}
-#news-ticker .scrollable .sliderwidget-next{left:0px;background:transparent url('/wp-content/uploads/small-arrow1.png') no-repeat center center;}
-#news-ticker .scrollable .sliderwidget-prev{right:0px;background:transparent url('/wp-content/uploads/small-arrow2.png') no-repeat center center;}
+#news-ticker .scrollable .sliderwidget-next{left:0px;background:url('/wp-content/uploads/small-arrow1.png') no-repeat center center transparent;}
+#news-ticker .scrollable .sliderwidget-prev{right:0px;background:url('/wp-content/uploads/small-arrow2.png') no-repeat center center transparent;}
 #news-ticker .scrollable .item,
 #news-ticker .scrollable .item img{width:136px!important;}
 .slider .scrollable .items .item p{text-align:center;}
